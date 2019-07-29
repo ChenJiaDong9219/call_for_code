@@ -1,0 +1,1 @@
+Utilize IBM platform to enhance image resolution.

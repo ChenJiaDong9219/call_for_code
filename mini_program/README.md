@@ -1,0 +1,1 @@
+Collect needs information and show buying list to donors.

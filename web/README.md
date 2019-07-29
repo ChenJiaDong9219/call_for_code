@@ -1,0 +1,1 @@
+Show heat map of needs and buying list.
