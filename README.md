@@ -1,5 +1,8 @@
+# Flow flow_chart
 ![alt text](intro/flow_chart.png)
+# Architecture
 ![alt text](intro/architecture.png)
+# Team
 ![alt text](intro/team.png)
 # Tech List
 ## IBM-Based Technologies
