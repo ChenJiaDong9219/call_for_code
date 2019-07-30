@@ -1,4 +1,4 @@
-# Flow flow_chart
+# Flow Chart
 ![alt text](intro/flow_chart.png)
 # Architecture
 ![alt text](intro/architecture.png)
