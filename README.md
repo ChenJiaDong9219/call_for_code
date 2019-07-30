@@ -1,3 +1,6 @@
+![alt text](intro/flow_chart.png)
+![alt text](intro/architecture.png)
+![alt text](intro/team.png)
 # Tech List
 ## IBM-Based Technologies
 - Image Resolution Enhancer
