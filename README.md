@@ -1,3 +1,5 @@
+# Introduction
+https://youtu.be/HTNtMBfe2Ac
 # Flow Chart
 ![alt text](intro/flow_chart.png)
 # Architecture
